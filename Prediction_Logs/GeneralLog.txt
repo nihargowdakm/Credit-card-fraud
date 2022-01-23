@@ -1,0 +1,79 @@
+2020-02-19/16:56:37		GoodRaw directory deleted successfully!!!
+2020-02-19/16:56:37		Bad files moved to archive
+2020-02-19/16:56:37		Bad Raw Data Folder Deleted successfully!!
+2020-02-19/17:28:33		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:28:33		GoodRaw directory deleted successfully!!!
+2020-02-19/17:29:28		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:29:29		GoodRaw directory deleted successfully!!!
+2020-02-19/17:32:07		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:32:07		GoodRaw directory deleted successfully!!!
+2020-02-19/17:35:14		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:35:14		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		Bad files moved to archive
+2020-02-19/17:36:11		Bad Raw Data Folder Deleted successfully!!
+2020-04-12/21:51:00		GoodRaw directory deleted successfully!!!
+2020-04-12/21:51:00		Bad files moved to archive
+2020-04-12/21:51:00		Bad Raw Data Folder Deleted successfully!!
+2022-01-12/00:38:50		BadRaw directory deleted before starting validation!!!
+2022-01-12/00:38:50		GoodRaw directory deleted successfully!!!
+2022-01-18/17:16:32		BadRaw directory deleted before starting validation!!!
+2022-01-18/17:16:32		GoodRaw directory deleted successfully!!!
+2022-01-18/17:21:10		BadRaw directory deleted before starting validation!!!
+2022-01-18/17:21:10		GoodRaw directory deleted successfully!!!
+2022-01-18/17:47:17		BadRaw directory deleted before starting validation!!!
+2022-01-18/17:47:17		GoodRaw directory deleted successfully!!!
+2022-01-19/14:20:53		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:20:53		GoodRaw directory deleted successfully!!!
+2022-01-19/14:22:50		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:22:50		GoodRaw directory deleted successfully!!!
+2022-01-19/14:22:53		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:22:53		GoodRaw directory deleted successfully!!!
+2022-01-19/14:24:33		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:24:33		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:25:46		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-01-19/14:27:23		GoodRaw directory deleted successfully!!!
+2022-01-19/14:27:23		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2022-01-19/14:27:37		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:27:37		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:27:43		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:28:24		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:28:48		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:29:35		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:31:02		GoodRaw directory deleted successfully!!!
+2022-01-19/14:35:33		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:35:33		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-01-19/14:35:33		GoodRaw directory deleted successfully!!!
+2022-01-19/14:35:33		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2022-01-19/14:37:28		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:37:28		GoodRaw directory deleted successfully!!!
+2022-01-19/14:38:24		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:38:24		GoodRaw directory deleted successfully!!!
+2022-01-19/14:39:32		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:39:32		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:41:19		GoodRaw directory deleted successfully!!!
+2022-01-19/14:42:07		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:42:07		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:43:11		GoodRaw directory deleted successfully!!!
+2022-01-19/14:43:15		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:43:15		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:44:46		GoodRaw directory deleted successfully!!!
+2022-01-19/14:44:52		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:44:52		GoodRaw directory deleted successfully!!!
+2022-01-19/14:44:56		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:44:56		GoodRaw directory deleted successfully!!!
+2022-01-19/14:45:02		BadRaw directory deleted before starting validation!!!
+2022-01-19/14:45:02		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2022-01-19/14:45:12		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011962_120212.csv'
+2022-01-19/14:48:11		GoodRaw directory deleted successfully!!!
+2022-01-19/14:48:11		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2022-01-19/14:49:05		GoodRaw directory deleted successfully!!!
+2022-01-19/14:49:05		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2022-01-19/14:49:17		GoodRaw directory deleted successfully!!!
+2022-01-19/14:49:17		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2022-01-19/15:07:54		GoodRaw directory deleted successfully!!!
+2022-01-19/15:07:54		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2022-01-19/15:23:29		GoodRaw directory deleted successfully!!!
+2022-01-19/15:23:29		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
+2022-01-19/15:54:43		GoodRaw directory deleted successfully!!!
+2022-01-19/15:54:43		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Prediction_Raw_Files_Validated/Bad_Raw/':
